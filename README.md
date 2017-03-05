@@ -47,5 +47,5 @@ Kérjen be a felhasználótól egy tetszőleges távolságot, és határozza meg
 </ol>
 <hr>
 <h3>Források:</h3>
-<li><a href="https://www.oktatas.hu/bin/content/dload/erettsegi/feladatok_2014osz_emelt/e_inf_14okt_fl.pdf">Feladatlap</a>
-<li><a href="https://www.oktatas.hu/bin/content/dload/erettsegi/feladatok_2014osz_emelt/e_inffor_14okt_fl.zip">Forrásállományok</a>
+<li><a href="https://www.oktatas.hu/pub_bin/dload/kozoktatas/erettsegi/feladatok2012tavasz/emelt/e_inf_12maj_fl.pdf">Feladatlap</a>
+<li><a href="https://www.oktatas.hu/pub_bin/dload/kozoktatas/erettsegi/feladatok2012tavasz/emelt/e_inffor_12maj_fl.zip">Forrásállományok</a>
